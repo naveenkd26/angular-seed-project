@@ -1,0 +1,16 @@
+{
+  "name": "angular-seed",
+  "description": "Angular Seed Project",
+  "main": "index.js",
+  "authors": [
+    "naveen dokuparthi"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "jquery": "~2.2.2",
+    "angular": "~1.5.3"
+  }
+}

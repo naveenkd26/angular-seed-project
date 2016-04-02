@@ -1,0 +1,19 @@
+{
+  "name": "angluarseedproject",
+  "version": "1.0.0",
+  "description": "angular seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenkumard26/angular-seed-project.git"
+  },
+  "author": "naveen dokuparthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkumard26/angular-seed-project/issues"
+  },
+  "homepage": "https://github.com/naveenkumard26/angular-seed-project#readme"
+}
