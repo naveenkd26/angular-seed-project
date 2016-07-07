@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/naveenkumard26/angular-seed-project/issues"
   },
-  "homepage": "https://github.com/naveenkumard26/angular-seed-project#readme"
+  "homepage": "https://github.com/naveenkumard26/angular-seed-project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-jasmine": "^0.3.8"
+  }
 }
