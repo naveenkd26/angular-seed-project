@@ -18,11 +18,15 @@
   "homepage": "https://github.com/naveenkumard26/angular-seed-project#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
     "gulp": "^3.9.1",
     "gulp-install": "^0.6.0",
     "jasmine-core": "^2.4.1",
+    "jshint": "^2.9.2",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.3",
-    "karma-jasmine": "^0.3.8"
+    "karma-jasmine": "^0.3.8",
+    "load-grunt-tasks": "^3.5.0"
   }
 }
